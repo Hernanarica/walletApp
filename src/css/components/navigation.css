@@ -1,0 +1,25 @@
+.navigation {
+	position: absolute;
+	bottom: 0;
+	left: calc(50% - 384px / 2);
+	padding: 1.5625rem 2.5rem;
+	background: var(--darkpurple1);
+	border-radius: 1.875rem;
+}
+
+.navigation__items {
+	gap: 3rem;
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+
+.navigation__btn {
+	background: transparent;
+	border: none;
+}
+
+.navigation__btn > * {
+	width: 1.75rem;
+	color: #fff;
+}

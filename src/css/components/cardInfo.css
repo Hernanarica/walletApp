@@ -1,0 +1,38 @@
+.cardInfo {
+	color: #fff;
+	background: #45197d;
+	font-family: Poppins, sans-serif;
+}
+
+.cardInfo-wrapper {
+	padding-inline: 2.5rem;
+	padding-block: 2.8125rem;
+	gap: 5.25rem;
+	background-image: url(../../assets/imgs/card-info.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.cardInfo,
+.cardInfo-wrapper {
+	border-radius: 2.5rem;
+}
+
+.cardInfo__balance {
+	margin: 0;
+	font-size: 1rem;
+	font-weight: 400;
+}
+
+.cardInfo__balanceNumber {
+	font: var(--text-l);
+}
+
+.cardInfo__bank {
+	margin: 0;
+	font-weight: 400;
+}
+
+.cardInfo__bank span {
+	font: var(--text-l);
+}

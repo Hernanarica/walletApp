@@ -1,0 +1,34 @@
+.transaction__title {
+	margin: 0;
+	font: var(--heading-m);
+	color: var(--darkpurple1);
+}
+
+.transaction__view {
+	font: var(--text-s);
+	color: var(--darkpurple3);
+}
+
+.transaction__list {
+	padding: 0;
+	margin: 0;
+	list-style: none;
+	overflow-y: scroll;
+	block-size: 13.875rem;
+}
+
+.transaction__item-info {
+	color: var(--darkpurple1);
+	font-family: Poppins, sans-serif;
+	font-weight: 500;
+}
+
+.transaction__item-info span {
+	color: var(--gray1);
+	font-weight: 400;
+	font: var(--text-s);
+}
+
+.transaction__item-price {
+	font: var(--text-m);
+}

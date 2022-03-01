@@ -1,0 +1,16 @@
+/* Bootstrap */
+@import "./bootstraping/bootstraping.css";
+
+/* Sections */
+@import "./sections/home.css";
+
+/* Components */
+@import "./components/barProfile.css";
+@import "./components/cardInfo.css";
+@import "./components/actions-section.css";
+@import "./components/buttons.css";
+@import "./components/transaction-history.css";
+@import "./components/navigation.css";
+
+/* Wrappers */
+@import "./wrappers/index.css";

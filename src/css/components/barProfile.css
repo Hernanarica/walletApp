@@ -1,0 +1,14 @@
+.barProfile__title {
+	margin: 0;
+	font: var(--heading-l);
+	color: var(--darkpurple1);
+}
+
+.barProfile__status {
+	font: var(--text-m);
+	color: var(--gray);
+}
+
+.barProfile__image {
+	vertical-align: middle;
+}

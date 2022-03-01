@@ -1,0 +1,15 @@
+:root {
+	--darkpurple1: #2f1155;
+	--darkpurple2: #5b259f;
+	--darkpurple3: #6e34b8;
+	--purple: #9038ff;
+	--pink: #d71cdb;
+	--gray1: #828282;
+	--gray2: #4F4F4F;
+	--heading-l: 600 1.5rem/normal Poppins;
+	--heading-m: 500 1.125rem/2rem Poppins;
+	--text-l: 700 1.5rem/2rem Quicksand;
+	--text-m: 600 1rem/1.5rem Quicksand;
+	--text-s: 500 0.8125rem/1.25rem Quicksand;
+	--text-xs: 500 0.625rem/1rem Quicksand;
+}

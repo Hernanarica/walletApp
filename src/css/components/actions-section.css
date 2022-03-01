@@ -1,0 +1,13 @@
+.actions {
+	padding: 1.75rem;
+}
+
+.action__btn {
+	inline-size: fit-content;
+	gap: 0.625rem;
+}
+
+.action__btn-description {
+	font: var(--text-s);
+	color: var(--gray2);
+}
