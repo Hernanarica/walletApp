@@ -1,6 +1,6 @@
 .navigation {
 	position: absolute;
-	bottom: 0;
+	bottom: 10px;
 	left: calc(50% - 384px / 2);
 	padding: 1.5625rem 2.5rem;
 	background: var(--darkpurple1);

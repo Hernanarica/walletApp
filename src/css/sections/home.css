@@ -2,6 +2,6 @@
 	position: relative;
 	block-size: calc(100vh - 50px);
 	padding-block: 67px 50px;
-	gap: 2.5rem;
+	gap: 2rem;
 	overflow: hidden;
 }
