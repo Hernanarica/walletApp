@@ -1,0 +1,18 @@
+.add-card {
+	position: relative;
+	min-block-size: 100vh;
+	gap: 3.75rem;
+}
+
+.add-card__title {
+	font: var(--heading-l);
+}
+
+.add-card__image {
+	max-inline-size: 55%;
+}
+
+.add-card__paragraph {
+	font: var(--text-m);
+	text-align: center;
+}

@@ -1,8 +1,15 @@
 .navigation {
+	width: 100%;
 	position: absolute;
 	bottom: 25px;
-	left: calc(50% - 384px / 2);
-	padding: 1.5625rem 2.5rem;
+	left: 0;
+}
+
+.navigation__wrapper {
+	padding-block: 1rem;
+	width: 95%;
+	display: flex;
+	justify-content: center;
 	background: var(--darkpurple1);
 	border-radius: 1.875rem;
 }

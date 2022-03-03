@@ -1,0 +1,14 @@
+.back-button {
+	position: absolute;
+	inset: 32px 0 0 20px;
+	padding: .5rem;
+	width: 48px;
+	height: 48px;
+	background: var(--gray3);
+	border-radius: 100%;
+	border: none;
+}
+
+.back-button > * {
+	width: 24px;
+}

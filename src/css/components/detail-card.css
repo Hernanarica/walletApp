@@ -1,0 +1,43 @@
+.detail-card {
+	min-block-size: 100vh;
+	gap: 3.125rem;
+}
+
+.detail-card {
+	font: var(--heading-l);
+}
+
+.detail-card__image {
+	max-inline-size: 85%;
+}
+
+.detail-card__items {
+	padding: 0;
+	margin: 0;
+	list-style: none;
+	max-inline-size: 75%;
+	inline-size: 100%;
+}
+
+.detail-card__item {
+	display: flex;
+}
+
+.detail-card__item strong {
+	color: var(--gray4);
+	font-family: Poppins, sans-serif;
+	font-size: 1rem;
+	flex: 1;
+}
+
+.detail-card__item span {
+	font: var(--text-m);
+	flex: 1;
+}
+
+.detail-card__btn {
+	background: transparent;
+	border: none;
+	font: var(--heading-m);
+	color: var(--purple);
+}

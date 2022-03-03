@@ -11,6 +11,10 @@
 @import "./components/buttons.css";
 @import "./components/transaction-history.css";
 @import "./components/navigation.css";
+@import "./components/add-card.css";
+@import "./components/back-button.css";
+@import "./components/detail-card.css";
+@import "./components/stats.css";
 
 /* Wrappers */
 @import "./wrappers/index.css";

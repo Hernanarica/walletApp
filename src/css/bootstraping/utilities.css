@@ -222,3 +222,7 @@
 .item-m-auto {
 	margin: auto;
 }
+
+.t-none {
+	text-decoration: none;
+}

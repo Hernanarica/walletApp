@@ -1,0 +1,43 @@
+.stats {
+	block-size: 100vh;
+	display: flex;
+	flex-direction: column;
+	gap: 2.5rem;
+	overflow: hidden;
+}
+
+.stats__title {
+	margin: 0;
+	font: var(--text-m);
+	color: var(--gray);
+}
+
+.stats__title,
+.stats__balance {
+	text-align: center;
+}
+
+.stats__balance {
+	color: var(--purple);
+	font-family: Poppins, sans-serif;
+	font-size: 2.25rem;
+}
+
+.stats__image {
+	inline-size: 100%;
+}
+
+.stats__group-1,
+.stats__sub-group-1 {
+	inline-size: 100%;
+	display: flex;
+	flex-direction: column;
+}
+
+.stats__group-1 {
+	gap: 4.875rem;
+}
+
+.stats__sub-group-1 {
+	gap: 0.25rem;
+}

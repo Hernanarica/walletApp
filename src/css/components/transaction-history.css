@@ -1,3 +1,7 @@
+.transaction {
+	inline-size: 100%;
+}
+
 .transaction__title {
 	margin: 0;
 	font: var(--heading-m);

@@ -1,6 +1,6 @@
 .home {
 	position: relative;
-	block-size: calc(100vh - 50px);
+	block-size: 100vh;
 	padding-block: 50px 50px;
 	gap: 2rem;
 	overflow: hidden;
